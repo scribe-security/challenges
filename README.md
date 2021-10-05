@@ -35,7 +35,7 @@ Please check the Imgur API documentation from the following URL:
 ## Important guidelines
 
 - Don't overkill! it's _OK_ to leave TODOs and comments, we know your time is valuable 🕒
-- Make sure we can easily run your code on our machines, deploying your solution to a cloud is appritiated ☁️
+- Make sure we can easily run your code on our machines, deploying your solution to a cloud is appreciated ☁️
 - Show us how you tested your code, TDD is cool but not a must, a pinch of tests should be enough ✨
 - UI Design is not important(!!) we just know you can make images load blazing fast (Great UX) and look appealing.
 
